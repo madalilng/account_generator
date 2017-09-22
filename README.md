@@ -12,7 +12,7 @@ copy and paste this to root of your openkore.
 replace anything
 
 
-this package have tg-to-aco macro made by me ( this is not perfect )
+this package have tg-to-aco macro compiled and edited by me based on brasil nacro ( this is not perfect )
 
 you can replace the eventMacro to anything you want
 
